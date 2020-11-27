@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(228, 177, 111);
+}
+h4{
+    color: green;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    background-color: rgb(113, 225, 240);
+    display: block;
+}
+ class.izq{
+     float:left ;
+     margin-right: 10px;
+     margin-bottom: 10px;
+
+}
+class.dere{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+p1{
+    color: blue;
+    background-color: white;
+    display:block;
+  position: relative;
+  top: 180px;
+  left: 200px;
+}
+p2{
+    color:red;
+    background-color: rgb(113, 225, 240);
+position: relative;
+top: 180px;
+left: 200px;
+display:block;
+    
+}
+h2{
+    background-color: blue;
+}
+h3{
+    background-color: red;
+}
+p.mid{
+    text-align: center;
+}
